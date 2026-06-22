@@ -2,7 +2,7 @@
 ![img.png](img.png)
 
 
-Welcome to the **Signal Processing Tutorial** for the Navigation ESA Academy 2025! These hands-on notebooks will guide you through loading, visualizing, and analyzing raw I/Q data in Octave—completely in your browser, no local installation required.
+Welcome to the **Signal Processing Tutorial** for the Navigation ESA Academy 2026! These hands-on notebooks will guide you through loading, visualizing, and analyzing raw I/Q data in Octave—completely in your browser, no local installation required.
 
 Click the **button below️** to launch the notebook. Please note that it can take a while to fully boot up the environment; we recommend clicking the button a bit in advance and uploading your I/Q sample data file immediately, as this step can be lengthy.
 
